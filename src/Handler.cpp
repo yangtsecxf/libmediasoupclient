@@ -96,7 +96,7 @@ namespace mediasoupclient
 
 		configuration.servers.clear();
 
-		for (const auto& iceServerUri : iceServerUris)
+		for (const std::string& iceServerUri : iceServerUris)
 		{
 			webrtc::PeerConnectionInterface::IceServer iceServer;
 

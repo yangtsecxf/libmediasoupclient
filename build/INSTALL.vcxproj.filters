@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\qz\mediasoup\libmediasoupclient\build\CMakeFiles\9fae3359c3684e4c9e780db432a7242f\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E93C9AA5-1750-3B65-9CE4-CA370BA7772B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

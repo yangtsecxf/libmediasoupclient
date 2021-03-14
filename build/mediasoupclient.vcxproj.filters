@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\Consumer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\DataConsumer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\DataProducer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\Device.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\Handler.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\Logger.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\PeerConnection.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\Producer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\Transport.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\mediasoupclient.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\ortc.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\scalabilityMode.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\sdp\MediaSection.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\sdp\RemoteSdp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qz\mediasoup\libmediasoupclient\src\sdp\Utils.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\Consumer.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\Device.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\Handler.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\Logger.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\sdp\MediaSection.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\mediasoupclient.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\MediaSoupClientErrors.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\ortc.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\PeerConnection.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\Producer.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\sdp\RemoteSdp.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\scalabilityMode.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\Transport.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qz\mediasoup\libmediasoupclient\include\sdp\Utils.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\qz\mediasoup\libmediasoupclient\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{8D833D05-9AEA-3E5C-8A50-E0353693F8D2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

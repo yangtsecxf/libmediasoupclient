@@ -1,8 +1,32 @@
-/build/
 /node_modules/
+/build/CMakeFiles/
 
 compile_commands.json
 
 # Vim temporal files.
 *.swp
 *.swo
+
+*.user
+*.db
+*.ipch
+*.bin
+*.cmake
+*.obj
+*.recipe
+*.rule
+*.lib
+*.exe
+*.dll
+*.txt
+*.pdb
+*.log
+*.tlog
+*.suo
+*.stamp
+*.depend
+*.ilk
+
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
